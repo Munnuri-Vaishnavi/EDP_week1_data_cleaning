@@ -39,7 +39,7 @@ Titanic dataset — 891 rows, 12 columns — containing passenger details and su
 ## Files
 - 'EDP_WEEK1.ipynb` — full cleaning notebook
 - `Titanic_Dataset.csv` — raw dataset
-- `cleaned_titanic.csv` — cleaned dataset
+- `titanic_cleaned_dataset.csv` — cleaned dataset
 
 ## Tools Used
 Python, pandas, Google Colab
